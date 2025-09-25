@@ -3,6 +3,13 @@ body {
 color:blue;
 }
 
+header {
+border: solid 2px rgb red;
+font-size: 32px;
+padding: 10px;
+color: darkgrey;
+}
+
 h1 {
     font-size: 30px;
    text-align: center;
